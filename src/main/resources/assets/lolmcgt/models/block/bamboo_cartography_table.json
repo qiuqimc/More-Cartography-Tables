@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+        "down": "minecraft:block/bamboo_planks",
+        "east": "lolmcgt:block/bamboo_cartography_table_side3",
+        "north": "lolmcgt:block/bamboo_cartography_table_side3",
+        "particle": "lolmcgt:block/bamboo_cartography_table_side3",
+        "south": "lolmcgt:block/bamboo_cartography_table_side1",
+        "up": "lolmcgt:block/bamboo_cartography_table_top",
+        "west": "lolmcgt:block/bamboo_cartography_table_side2"
+    }
+}

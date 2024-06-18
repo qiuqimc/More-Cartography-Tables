@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+        "down": "minecraft:block/jungle_planks",
+        "east": "lolmcgt:block/jungle_cartography_table_side3",
+        "north": "lolmcgt:block/jungle_cartography_table_side3",
+        "particle": "lolmcgt:block/jungle_cartography_table_side3",
+        "south": "lolmcgt:block/jungle_cartography_table_side1",
+        "up": "lolmcgt:block/jungle_cartography_table_top",
+        "west": "lolmcgt:block/jungle_cartography_table_side2"
+    }
+}

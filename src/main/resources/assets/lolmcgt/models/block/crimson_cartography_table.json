@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+        "down": "minecraft:block/crimson_planks",
+        "east": "lolmcgt:block/crimson_cartography_table_side3",
+        "north": "lolmcgt:block/crimson_cartography_table_side3",
+        "particle": "lolmcgt:block/crimson_cartography_table_side3",
+        "south": "lolmcgt:block/crimson_cartography_table_side1",
+        "up": "lolmcgt:block/crimson_cartography_table_top",
+        "west": "lolmcgt:block/crimson_cartography_table_side2"
+    }
+}
